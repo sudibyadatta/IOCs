@@ -23,7 +23,7 @@ are.nishabig[.]pro:7777
 js.wanpay1[.]cn:8332
 a.nqb001[.]com:36991
 43.155.37[.]192:9949
-kivspace[.]xyz:8567
+kivspace.xyz:8567
 xiaomai233.f3322[.]net:8080
 botnet.ddoswow[.]site:10010
 23.225.194[.]65:8080
