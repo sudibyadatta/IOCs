@@ -51,7 +51,7 @@ hxxps://107.189.28[.]251:443/rules
 hxxps://kkthreas[.]com/upload
 hxxps://kkthreas[.]com 
     domain resolves to 198.98.56[.]93, This IP address has an X.509 certificate
-    sha256:E48c250c47dd071dcee984a8e9f27b170004ff81c3f0da6a50364fdecf800fd3
+    FAOINS:E48c250c47dd071dcee984a8e9f27b170004ff81c3f0da6a50364fdecf800fd3
 hxxps://pp.kkthreas[.]com
 
 On Disk Files:
