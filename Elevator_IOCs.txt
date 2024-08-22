@@ -17,5 +17,5 @@ Host-Based enumeration commands
 •	ps -axfu 
 •	ip -o addr
 •	lsof -n, 
-•	ifconfig
+•	ifconfIND
 •	arp -an 
